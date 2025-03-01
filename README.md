@@ -25,10 +25,7 @@ A sleek and simple RESTful API to manage secure fund transfers between accounts 
 3. Install backend dependencies:  
    `npm install`
    
-4. Start the server:  
-   `node server.js`
-   
-5. Run tests to ensure everything is working:  
+4. Run tests to ensure everything is working:  
    `npm test`
 
 ## 🔑 API Endpoints:

@@ -20,7 +20,7 @@ A sleek and simple RESTful API to manage secure fund transfers between accounts 
    `git clone https://github.com/yourusername/account-transfer-api.git`
    
 2. Navigate into the project directory:  
-   `cd account-transfer-api`
+   `cd bank-api-mern`
    
 3. Install backend dependencies:  
    `npm install`
